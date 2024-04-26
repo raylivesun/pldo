@@ -7,9 +7,10 @@
       <Unit>
         <Filename Value="pldo.lpr"/>
         <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
         <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
-        <TopLine Value="8"/>
+        <TopLine Value="7"/>
         <CursorPos X="7" Y="15"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
@@ -18,6 +19,7 @@
         <Filename Value="pldo.pp"/>
         <IsPartOfProject Value="True"/>
         <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <CursorPos X="10"/>
         <UsageCount Value="20"/>
